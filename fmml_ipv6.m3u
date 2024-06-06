@@ -125,7 +125,3 @@ http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
 http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟞「IPV6」
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/78/2664783515/u26647835159vB5axM.jpg" group-title="zonghe", 武林外传
-https://www.goodiptv.club/yy/1354752120
-#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/91/1634911740/u1634911740k7wFsbW.jpg" group-title="zonghe", 好久不见-武林外传
-https://www.goodiptv.club/yy/1355914397
